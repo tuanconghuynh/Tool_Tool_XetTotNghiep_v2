@@ -1,0 +1,113 @@
+{
+  "aliases": {
+    "id": [
+      "MaSV",
+      "MSSV",
+      "Mã sinh viên",
+      "Mã học viên"
+    ],
+    "academic": [
+      "DatTN",
+      "Tình trạng học tập",
+      "Kết quả học tập"
+    ],
+    "records": [
+      "Tình trạng hồ sơ"
+    ],
+    "english": [
+      "Tình trạng chứng chỉ TA",
+      "Tình trạng tiếng Anh"
+    ],
+    "tuition": [
+      "Tình trạng học phí"
+    ],
+    "debt": [
+      "TongHS1",
+      "Công nợ",
+      "Nợ học phí"
+    ],
+    "missing": [
+      "Hồ sơ thiếu"
+    ],
+    "last": [
+      "HoLotSV",
+      "Họ lót",
+      "Họ và tên",
+      "Họ tên"
+    ],
+    "first": [
+      "TenSV",
+      "Tên SV",
+      "Tên"
+    ],
+    "birth": [
+      "NgaySinhC",
+      "Ngày sinh"
+    ],
+    "class": [
+      "MaLop",
+      "Mã lớp"
+    ],
+    "major": [
+      "TenNganh",
+      "Tên ngành"
+    ],
+    "credits": [
+      "TCTong",
+      "Tổng tín chỉ"
+    ],
+    "gpa": [
+      "DTBTN",
+      "Điểm trung bình"
+    ],
+    "rank": [
+      "XLTNTC",
+      "Xếp loại"
+    ],
+    "downgrade": [
+      "HaBacTN"
+    ],
+    "reason": [
+      "LyDoHBTN"
+    ]
+  },
+  "pass": {
+    "academic": [
+      "Đạt",
+      "Đủ điều kiện"
+    ],
+    "records": [
+      "Đủ hồ sơ"
+    ],
+    "english": [
+      "Đạt",
+      "Đủ"
+    ],
+    "tuition": [
+      "Không nợ HP",
+      "Không nợ học phí",
+      "Đã hoàn thành học phí"
+    ]
+  },
+  "fail": {
+    "academic": [
+      "Không đạt",
+      "Chưa đạt"
+    ],
+    "records": [
+      "Thiếu hồ sơ",
+      "Không có hồ sơ",
+      "Miễn môn theo bảng điểm CĐ -> chờ KQ xác minh bảng điểm CĐ"
+    ],
+    "english": [
+      "Không đạt",
+      "Chưa đạt",
+      "Thiếu"
+    ],
+    "tuition": [
+      "Nợ HP",
+      "Nợ học phí",
+      "Chưa hoàn thành học phí"
+    ]
+  }
+}
